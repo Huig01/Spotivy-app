@@ -1,3 +1,3 @@
 # Spotivy-app
 
-# YES
+# Welcome to our Spotivy project!
