@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Spotivy_app.classes
 {
-    class yes
+    class Album
     {
     }
 }
