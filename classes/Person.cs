@@ -8,8 +8,5 @@ namespace Spotivy_app.classes
 {
     class Person
     {
-        private string Naam;
-        public List<Person> Friends;
-        public List<Playlist> Playlists;
     }
 }

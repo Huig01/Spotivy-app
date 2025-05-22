@@ -8,7 +8,5 @@ namespace Spotivy_app.classes
 {
     class SongCollection
     {
-        private string Title;
-        public List<iPlayable> playables;
     }
 }

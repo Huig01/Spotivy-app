@@ -8,6 +8,5 @@ namespace Spotivy_app.classes
 {
     class Album
     {
-        private List<Artist> Artists
     }
 }
